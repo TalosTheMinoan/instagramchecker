@@ -1,10 +1,12 @@
 # Instagram Profile Downloader
 
 
+![GitHub license](https://img.shields.io/github/license/yourusername/instagram-profile-downloader)
+
 
 ## Overview
 
-The Instagram Profile Downloader is a versatile Python tool that allows you to download public Instagram profiles' posts and information effortlessly. Whether you want to archive your favorite profiles or analyze user-generated content, this open-source project simplifies the process for you.
+The Instagram Profile Downloader is a versatile Python tool that allows you to download public Instagram profiles' posts and information effortlessly. Whether you want to archive your favorite profiles, analyze user-generated content, or explore Instagram data, this open-source project simplifies the process for you.
 
 ## Features
 
