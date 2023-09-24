@@ -29,5 +29,5 @@ Follow these steps to use the Instagram Profile Downloader:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/instagram-profile-downloader.git
-   cd instagram-profile-downloader
+   git clone https://github.com/TalosTheMinoan/instagramchecker/tree/main
+   python instagramdownloader.py
