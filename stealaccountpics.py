@@ -12,7 +12,7 @@ def download_posts_and_videos(username):
             L.download_post(post, target=filename)
             print(f"Downloaded: {filename}.jpg")
 
-username = "__mavrikou__" #enter username of target account
+username = "addausername" #enter username of target account
 download_posts_and_videos(username)  
 
 
