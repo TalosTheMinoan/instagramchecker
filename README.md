@@ -19,7 +19,7 @@ The Instagram Profile Downloader is a versatile Python tool that allows you to d
 
 Before getting started, ensure you have the following prerequisites:
 
-- Python 3.x installed on your system.
+- Python 3.x+ installed on your system.
 - Install the required Python packages by running `pip install -r requirements.txt`.
 
 ## Getting Started
