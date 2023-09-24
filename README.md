@@ -1,7 +1,8 @@
 # Instagram Profile Downloader
 
 
-![GitHub license](https://img.shields.io/github/license/TalosTheMinoan/licence.md)
+![GitHub license](https://github.com/TalosTheMinoan/instagramchecker/blob/main/licence.md)
+
 
 
 ## Overview
