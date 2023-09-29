@@ -25,7 +25,9 @@ The Instagram Profile Downloader is a powerful Python tool designed to simplify 
 
 - **Post Download:** Seamlessly download all public posts from a profile, including images and videos. Save them for offline viewing or analysis.
 
-- **Ease of Use:** Enjoy a user-friendly command-line interface for quick and effortless downloads.
+- **Graphical User Interface (GUI):** We've added a user-friendly GUI for easy navigation and interaction. Simply launch the application, enter the username, choose the download folder, and click "Download Profile."
+
+- **Error Handling:** In case of any issues, the application provides error logs for easy troubleshooting.
 
 ## Prerequisites ⚙️
 
