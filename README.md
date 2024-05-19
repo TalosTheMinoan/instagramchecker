@@ -39,3 +39,19 @@ Before getting started, please ensure that you have the following prerequisites 
 
 ```bash
 pip install -r requirements.txt
+
+
+
+
+
+
+
+
+
+
+## Legal
+Disclaimer:
+
+We are not responsible for any illegal use of this service. Please ensure that you use it responsibly and in accordance with all applicable laws and regulations. By using this service, you agree to comply with these terms and acknowledge that any misuse or illegal activity is solely your responsibility. Always use this service with your full awareness and consent.
+
+
