@@ -2,6 +2,11 @@
 
 ![GitHub License](https://github.com/TalosTheMinoan/instagramchecker/blob/main/LICENSE.md)
 
+<a href="https://www.dmca.com/r/8m78rl0" class="dmca-badge">
+    <img src="https://images.dmca.com/Badges/dmca-badge-w200-2x1-02.png?ID=94063ebf-4b8a-4bd8-b454-a2a336de21b7" alt="DMCA.com Protection Status" />
+</a>
+
+
 ## Overview 🚀
 
 The Instagram Profile Downloader is a powerful Python tool designed to simplify the process of downloading public Instagram profiles' posts and information. Whether you aim to archive your favorite profiles, analyze user-generated content, or explore Instagram data, this open-source project has been crafted to provide a seamless experience.
